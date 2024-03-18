@@ -3,8 +3,11 @@ import './app.scss'
 function App() {
 
   return (
-    <div className='hello-scss'>Hello and Welcome
-      <div className='sub-hello'>Something new</div></div>
+    <div className='container'>
+      <h1>Welcome</h1>
+      <h1>to my</h1>
+      <h1>photo gallery</h1>
+    </div>
   )
 }
 
